@@ -1,1 +1,1 @@
-my first readme
+variables if else and while statements
