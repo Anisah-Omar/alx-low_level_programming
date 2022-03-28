@@ -18,4 +18,3 @@ dest[i] = src[i];
 
 return (dest);
 }
-© 2022 GitHub, 
